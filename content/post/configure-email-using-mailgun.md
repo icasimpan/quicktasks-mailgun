@@ -1,6 +1,7 @@
 ---
 title: "Configure Email Using Mailgun"
 date: 2019-09-21T00:20:25+08:00
+tags: [mailgun]
 draft: false
 ---
 
